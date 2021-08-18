@@ -3,7 +3,7 @@ A 3U 6HP Eurorack Random Gate Module
 
 This module started as a random trigger and gate module, and evolved into a multi-function gate trigger generator. It has two inputs and six outputs, each with an LED, three knobs, a mode select button and mode LED. The schematic and code is open-source, and PCBs / panels are available as well as partial / full kits.
 
-It has 10 modes: Mode 1 - random gate generator. Mode 2 - Clock divider. Mode 3 Clock divider with swing. Mode 4 Euclidian generator.
+It currently has 3 modes: Mode 1 - random gate generator. Mode 2 - Clock divider. Mode 3 Clock divider with swing. <planned>Mode 4 Euclidian generator.
 
 Here is a video that demonstrates the module.
 
