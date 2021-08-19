@@ -1,4 +1,4 @@
-# IrregularGates
+# Irregular Gate Syndrome
 A 3U 6HP Eurorack Random Gate Module
 
 This module started as a random trigger and gate module, and evolved into a multi-function gate trigger generator. It has two inputs and six outputs, each with an LED, three knobs, a mode select button and mode LED. The schematic and code is open-source, and PCBs / panels are available as well as partial / full kits.
